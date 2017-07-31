@@ -15,6 +15,7 @@ media.stagefright.less-secure=true
 debug.hwui.use_buffer_age=false
 persist.hwc.mdpcomp.enable=true
 ro.opengles.version=196608
+debug.hwui.use_buffer_age=false
 
 # Media
 af.fast_track_multiplier=1
